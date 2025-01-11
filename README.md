@@ -4,4 +4,3 @@ This repository contains several files:
 2. `draw_2D_ship.m`: Code responsible for generating a two-dimensional animation of the ship.
 3. `way_point.mat`: Waypoints used in the simulation.
 4. `simulation_of_autonomous_ship.m`: The main code for simulating an autonomous ships under cyber attacks.
-# autonomous_ships_under_cyber_attacks
